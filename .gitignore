@@ -1,0 +1,4 @@
+**/Everstorm*
+__pycache__/
+**/faiss_index/**
+.ipynb_checkpoints/
